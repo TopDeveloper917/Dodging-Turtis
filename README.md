@@ -167,13 +167,6 @@ yarn start
 - **@truffle/hdwallet-provider version** - 1.4.1
 - **web3 version** - 1.4.0
 
-## Developers
-
-- **Dinesh B S** [(@DineshBS44)](https://github.com/DineshBS44)
-- **Hardik Agarwal** [(@Hardikag17)](https://github.com/Hardikag17)
-- **Hritika M Kucheriya** [(@hritikamk)](https://github.com/hritikamk)
-- **Suryashankar Das** [(@iamsdas)](https://github.com/iamsdas)
-
 ## Contributors
 
 ## License
